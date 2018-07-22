@@ -44,7 +44,12 @@ test('should remove expense from firebase', (done) => {
     });
     return database.ref(`users/${uid}/expenses/${id}`).once('value');
   }).then((snapshot) => {
-    expect(snapshot.val()).toBeFalsy();
+    expect(snapshot.val()).toEqual({
+      amount: expenses[2].amount,
+      createdAt: expenses[2].createdAt,
+      description: expenses[2].description,
+      note: expenses[2].note
+    });
     done();
   });
 });

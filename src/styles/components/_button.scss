@@ -1,0 +1,49 @@
+.button{
+    background-color: #d83e3e;
+    border-radius: 2px;
+    border: 0px;
+    padding: $xs-size $xl-size; 
+    color: white;
+    font-size: $m-size;
+    border-bottom: 3px solid #b72d2d;
+}
+
+
+.button:active{
+    background-color: #cc3b3b;
+}
+
+
+.button__add{
+    background-color: #3e83d8;
+    color:white;
+    padding: $s-size $m-size; 
+    text-decoration: none;
+    box-shadow: 1px 1px 3px #c4c4c4;
+    display: inline-block;
+    border: 0px;
+}
+
+.button__add:active{
+    background-color: #3a7ccc;
+}
+
+.button__logout{
+    background: none;
+    color:white;
+    border: 0px;
+}
+
+.button__remove{
+    background-color: #a0a0a0;
+    color:white;
+    padding: $s-size $m-size; 
+    text-decoration: none;
+    box-shadow: 1px 1px 3px #c4c4c4;
+    display: inline-block;
+    border: 0px;
+}
+
+.button__remove:active{
+    background-color: #8c8a8a;
+}
