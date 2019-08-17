@@ -18,4 +18,4 @@
 ## Project Status
   Done
 ## Links
-  <a href="https://goo.gl/iqtzZK">Link to Expencify </a>
+  <a href="https://shorturl.at/hmAKL">Link to Expencify </a>
