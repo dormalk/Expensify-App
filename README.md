@@ -38,19 +38,19 @@
     <img src="https://lh3.googleusercontent.com/xrXpkLr51Xu4OVZpSgJKY4hDbkCd-_9h2HLsj3PBZ-JhL7fNy6gHYxelY7A3s4FBFA=s180-rw" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">EXPENCIFY AOO</h3>
+  <h3 align="center">Expensify App</h3>
 
   <p align="center">
-    Expences
+    Expenses and revenues's management app - control on your money
     <br />
     <a href="https://github.com/dormalk/Expensify-App"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://play.google.com/store/apps/details?id=com.dormalka.buy2gether">View App on PlayStore</a>
+    <a href="https://goo.gl/iqtzZK" target="_blank">Open Exensify App</a>
     ·
-    <a href="https://github.com/dormalk/Buy2Gether/issues">Report Bug</a>
+    <a href="https://github.com/dormalk/Expensify-App/issues">Report Bug</a>
     ·
-    <a href="https://github.com/dormalk/Buy2Gether/issues">Request Feature</a>
+    <a href="https://github.com/dormalk/Expensify-App/issues">Request Feature</a>
   </p>
 </p>
 
@@ -83,15 +83,11 @@
 ![product-screenshot][product-screenshot5]
 
 
-
-
-With Buy2Geter U will find it more compfortable to do shppoing on supermarkets. You can create many shopping lists wite all the informative itme's details - title, description, count, picture.  
-More useful feature is ability to share list with other people by sending them uniq-link. with sharing list all the participents can see the list, check/unckeck, and get inform about changing in real time.
+With Expensify - you have full control on your money expenses. you can manage reports and sumerize the total balance.
 
 ### Built With
 
-  * [Expo](https://expo.io/)
-  * [React Native](https://facebook.github.io/react-native/)
+  * [React](https://reactjs.org/)
   * [Firebase](https://firebase.google.com/)
 
 
@@ -102,40 +98,38 @@ More useful feature is ability to share list with other people by sending them u
 Follow the next indtuction to run this project on local enviroment.
 ### Prerequisites
 
-* expo
+* React
 ```sh
-npm install expo
+npm install create-react-app
 ```
 
 ### Installation
  
 1. Clone the repo
 ```sh
-git clone https://github.com/dormalk/Buy2Gether
+git clone https://github.com/dormalk/Expensify-App
 ```
 2. Install NPM packages
 ```sh
 npm install
 ```
-3. Download Expo app form AppStore|Playstore <br/>
-[Expo on PlayStore](https://play.google.com/store/apps/details?id=host.exp.exponent) | 
-[Expo on AppStore](https://apps.apple.com/us/app/expo-client/id982107779)
-4. Run app from CMD and open it on Expo app
+3. Run app from CMD
 ```sh
 npm run start
 ```
 5. Follow the instruction on the opened web page
-
+```sh
+http://localhost:3000
+```
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
   - Login page - Login by email and password. (Optinal login with google account)
-  - Lists View - Main page preset list releted ro account (who he've created and who he has shered)
-  - Add/Edit List - Create new shopping list and save on database
-  - Shere list - Send uniq url to friends and let them see exect the same list as you
-  - View Mode List - Present shopping list in view mode, check/uncheck items - all other watchers notify about the changes in real time.
-  - <a href="https://github.com/dormalk/Buy2GetherRedirct">Link to Redirect Shered List Page </a>
+  - Add Expense page - Create new expense and save on database
+  - Dashboard page - Present all expense and total balance(filtering optional)
+  - Edit page - Edit/Remove expense from database
+  - Tests - Snapshots tests, Functionality tests, Mocks
+  - <a href="https://goo.gl/iqtzZK" target="_blank">Link to Expencify</a>
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
@@ -143,7 +137,7 @@ npm run start
 <!-- ROADMAP -->
 <!--## Roadmap
 
-See the [open issues](https://github.com/dormalk/Buy2Gether/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/dormalk/Expensify-App/issues) for a list of proposed features (and known issues).
 
 
 
@@ -180,7 +174,8 @@ Project Link: [https://github.com/dormalk/Expensify-App](https://github.com/dorm
 ## Acknowledgements
 
 * [Git README.md Template](https://github.com/othneildrew/Best-README-Template)
-* [Expo Documentations](https://docs.expo.io/versions/latest/)
+* [React](https://reactjs.org/)
+* [SCSS](https://sass-lang.com/guide)
 
 
 
@@ -207,26 +202,3 @@ Project Link: [https://github.com/dormalk/Expensify-App](https://github.com/dorm
 [product-screenshot5]: https://lh3.googleusercontent.com/iSG5yJ-ASkNZCPhA1AjyMNtD6rh4b4kMu-RDZms8-gtZMhmVNeLtpJwLJZZSQpFXSs3N=w720-h310-rw
 
 
-
-
-# Expencify
-  Finance Balance Management
-## Implementation
-  - React.js(+redux,jest,enzyme), SCSS
-  - DB: Firebase
-  - <b>Compatibility for mobile</b>
-## What's include
-  - Login page - Login by email and password. (Optinal login with google account)
-  - Add Expense page - Create new expense and save on database
-  - Dashboard page - Present all expense and total balance(filtering optional)
-  - Edit page - Edit/Remove expense from database
-  - Tests - Snapshots tests, Functionality tests, Mocks
-## Firebase
-  - Works on front-end (not require implements of server side)
-  - Easy Api
-  - Account management
-  - Include NoSql database with json records - Holds expense data
-## Project Status
-  Done
-## Links
-  <a href="https://goo.gl/iqtzZK">Link to Expencify </a>
