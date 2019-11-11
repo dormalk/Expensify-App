@@ -41,7 +41,7 @@
   <h3 align="center">Expensify App</h3>
 
   <p align="center">
-    Expenses and revenues's management app - control on your money
+    Expenses management app - control on your money
     <br />
     <a href="https://github.com/dormalk/Expensify-App"><strong>Explore the docs »</strong></a>
     <br />
