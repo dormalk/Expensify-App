@@ -76,11 +76,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot][product-screenshot1]
-![product-screenshot][product-screenshot2]
-![product-screenshot][product-screenshot3]
-![product-screenshot][product-screenshot4]
-![product-screenshot][product-screenshot5]
+![product-screenshot][product-screenshot1 | width=250]
+![product-screenshot][product-screenshot2 | width=250]
+![product-screenshot][product-screenshot3 | width=250]
+![product-screenshot][product-screenshot4 | width=250]
+![product-screenshot][product-screenshot5 | width=250]
 
 
 With Expensify - you have full control on your money expenses. you can manage reports and sumerize the total balance.
@@ -117,7 +117,7 @@ npm install
 ```sh
 npm run start
 ```
-5. Follow the instruction on the opened web page
+4. Follow the instruction on the opened web page
 ```sh
 http://localhost:3000
 ```
