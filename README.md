@@ -76,11 +76,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot](product-screenshot1 | width=250)
-![product-screenshot][product-screenshot2 | width=250]
-![product-screenshot][product-screenshot3 | width=250]
-![product-screenshot][product-screenshot4 | width=250]
-![product-screenshot][product-screenshot5 | width=250]
+![product-screenshot][product-screenshot1]
+![product-screenshot][product-screenshot2]
+![product-screenshot][product-screenshot3]
+![product-screenshot][product-screenshot4]
+![product-screenshot][product-screenshot5]
 
 
 With Expensify - you have full control on your money expenses. you can manage reports and sumerize the total balance.
@@ -195,7 +195,7 @@ Project Link: [https://github.com/dormalk/Expensify-App](https://github.com/dorm
 [license-url]: https://github.com/dormalk/Expensify-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dor-malka-444b94116/
-[product-screenshot1]: https://i.imgur.com/bGNBbbh.png
+[product-screenshot1]: https://i.imgur.com/bGNBbbh.png | width=250
 [product-screenshot2]: https://i.imgur.com/izALc9q.png
 [product-screenshot3]: https://i.imgur.com/eR7msxH.png
 [product-screenshot4]: https://i.imgur.com/fBPux6l.png
