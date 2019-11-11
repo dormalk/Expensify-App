@@ -195,7 +195,7 @@ Project Link: [https://github.com/dormalk/Expensify-App](https://github.com/dorm
 [license-url]: https://github.com/dormalk/Expensify-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dor-malka-444b94116/
-[product-screenshot1]: https://i.imgur.com/bGNBbbh.png | width=250
+[product-screenshot1]: https://i.imgur.com/bGNBbbh.png
 [product-screenshot2]: https://i.imgur.com/izALc9q.png
 [product-screenshot3]: https://i.imgur.com/eR7msxH.png
 [product-screenshot4]: https://i.imgur.com/fBPux6l.png
