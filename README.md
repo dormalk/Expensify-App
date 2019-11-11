@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/dormalk/Expensify-App">
-    <img src="https://lh3.googleusercontent.com/xrXpkLr51Xu4OVZpSgJKY4hDbkCd-_9h2HLsj3PBZ-JhL7fNy6gHYxelY7A3s4FBFA=s180-rw" alt="Logo" width="150" height="150">
+<div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
   </a>
 
   <h3 align="center">Expensify App</h3>
