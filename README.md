@@ -195,19 +195,11 @@ Project Link: [https://github.com/dormalk/Expensify-App](https://github.com/dorm
 [license-url]: https://github.com/dormalk/Expensify-App/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dor-malka-444b94116/
-[product-screenshot1]: https://lh3.googleusercontent.com/u3V5utG39lJ7anP-nnGVTAHagV5uP9bHm9xz06JpBzLuqGvSiYZEKRCZnTN4dO9aEj_X=w720-h310-rw
-[product-screenshot2]: https://lh3.googleusercontent.com/r47a09QWNO_cQ4H_f2NYaZ7r7kRtllo_DO_5yeX7kvdwk4s-hQ0MLCRXagaaSYS-BSs=w720-h310-rw
-[product-screenshot3]: https://lh3.googleusercontent.com/jpbEpUdCpqp_04HPyA9RZ6N8fXBkC6UYaQvZkwsNupBPBEP6-_ruUGbp1KnpKdl_LyTy=w720-h310-rw
-[product-screenshot4]: https://lh3.googleusercontent.com/H_7qm3O94qvKGiSJW-vs3NmHGb8xZqSOHRrLiBd73X8cK1ZKEYXypBFPCO-OJRjALI4=w720-h310-rw
-[product-screenshot5]: https://lh3.googleusercontent.com/iSG5yJ-ASkNZCPhA1AjyMNtD6rh4b4kMu-RDZms8-gtZMhmVNeLtpJwLJZZSQpFXSs3N=w720-h310-rw
+[product-screenshot1]: https://i.imgur.com/bGNBbbh.png
+[product-screenshot2]: https://i.imgur.com/izALc9q.png
+[product-screenshot3]: https://i.imgur.com/eR7msxH.png
+[product-screenshot4]: https://i.imgur.com/fBPux6l.png
+[product-screenshot5]: https://i.imgur.com/KZwh485.png
 
-
-
-
-https://imgur.com/izALc9q
-https://imgur.com/bGNBbbh
-https://imgur.com/eR7msxH
-https://imgur.com/fBPux6l
-https://imgur.com/KZwh485
 
 
