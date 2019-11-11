@@ -76,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![product-screenshot][product-screenshot1 | width=250]
+![product-screenshot](product-screenshot1 | width=250)
 ![product-screenshot][product-screenshot2 | width=250]
 ![product-screenshot][product-screenshot3 | width=250]
 ![product-screenshot][product-screenshot4 | width=250]
