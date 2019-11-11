@@ -129,7 +129,7 @@ http://localhost:3000
   - Dashboard page - Present all expense and total balance(filtering optional)
   - Edit page - Edit/Remove expense from database
   - Tests - Snapshots tests, Functionality tests, Mocks
-  - <a href="https://goo.gl/iqtzZK" target="_blank">Link to Expencify</a>
+  - <a href="https://goo.gl/iqtzZK" target="_blank">Link to Expensify</a>
 <!--_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 
